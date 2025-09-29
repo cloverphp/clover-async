@@ -3,7 +3,7 @@
     "description": "async",
     "type": "library",
     "require": {
-        "php": "^8.4"
+        "php": "^8.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^12.3"
@@ -11,7 +11,9 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Cloverphp\\Async\\": "src/"
+            "Clover\\Async\\": "src/Async/",
+            "Clover\\Http\\": "src/Http/",
+            "Clover\\Utils\\": "src/Utils/"
         }
     },
     "authors": [
@@ -20,5 +22,6 @@
             "email": "sushilkumbhar77@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
