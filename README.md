@@ -1,5 +1,14 @@
 ## Clover Async
 
+
+[![Code Coverage](https://github.com/cloverphp/clover/actions/workflows/code-coverage.yml/badge.svg?branch=main)](https://github.com/cloverphp/clover/actions/workflows/code-coverage.yml)
+[![Tests](https://github.com/cloverphp/clover/actions/workflows/tests.yml/badge.svg)](https://github.com/cloverphp/clover/actions/workflows/tests.yml)
+![Packagist Version](https://img.shields.io/packagist/v/cloverphp/async?style=flat&logo=composer&logoColor=%23fff)
+![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/cloverphp/async/php?style=flat&logo=php&logoColor=blue&label=PHP&color=blue)
+![Packagist License](https://img.shields.io/packagist/l/cloverphp/async?style=flat&label=License&color=blue)
+![Packagist Downloads](https://img.shields.io/packagist/dt/cloverphp/async?style=flat&logo=packagist&label=Downloads&color=blue)
+
+
 ---
 
 ### Example 1
